@@ -7,10 +7,10 @@ $ export FLASK_ENV=development
 $ export FLASK_APP=flaskr
 
 # To run the flask app
-$ python -m flask run
-(OR)
-$ flask run
+$ python -m flask run  
+(OR)  
+$ flask run  
 
 # To Run the init-db command:
-$ flask init-db
+$ flask init-db  
 Initialized the database.

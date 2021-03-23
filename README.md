@@ -3,7 +3,7 @@
 https://flask.palletsprojects.com/en/1.1.x/installation/#install-activate-env
 
 # set the following environment variables before running app. 
-$ export FLASK_ENV=development
+$ export FLASK_ENV=development \n
 $ export FLASK_APP=flaskr
 
 # To run the flask app

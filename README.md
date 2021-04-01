@@ -14,3 +14,7 @@ $ flask run
 # To Run the init-db command:
 $ flask init-db  
 Initialized the database.
+
+# Install the Project
+Use pip to install your project in the virtual environment.
+$ pip install -e . 
